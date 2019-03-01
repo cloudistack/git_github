@@ -1,2 +1,2 @@
 # git_github
-this is for learning purpuse.
+this is for learning purpuse
